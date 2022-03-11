@@ -32,9 +32,7 @@ nyt-wordle-darkmode: true
 {"currentStreak":1,"maxStreak":11,"guesses":{"1":0,"2":2,"3":8,"4":9,"5":1,"6":0,"fail":3},"winPercentage":86,"gamesPlayed":23,"gamesWon":20,"averageGuesses":3}
 {"currentStreak":2,"maxStreak":11,"guesses":{"1":0,"2":2,"3":9,"4":9,"5":1,"6":0,"fail":3},"winPercentage":88,"gamesPlayed":24,"gamesWon":21,"averageGuesses":3}
 {"currentStreak":3,"maxStreak":11,"guesses":{"1":0,"2":2,"3":10,"4":9,"5":1,"6":0,"fail":3},"winPercentage":88,"gamesPlayed":25,"gamesWon":22,"averageGuesses":3}
-
-
-
+{"currentStreak":1,"maxStreak":11,"guesses":{"1":0,"2":2,"3":10,"4":10,"5":1,"6":0,"fail":3},"winPercentage":88,"gamesPlayed":26,"gamesWon":23,"averageGuesses":3}
 
 
 
