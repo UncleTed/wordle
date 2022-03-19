@@ -33,14 +33,14 @@ nyt-wordle-darkmode: true
 {"currentStreak":2,"maxStreak":11,"guesses":{"1":0,"2":2,"3":9,"4":9,"5":1,"6":0,"fail":3},"winPercentage":88,"gamesPlayed":24,"gamesWon":21,"averageGuesses":3}
 {"currentStreak":3,"maxStreak":11,"guesses":{"1":0,"2":2,"3":10,"4":9,"5":1,"6":0,"fail":3},"winPercentage":88,"gamesPlayed":25,"gamesWon":22,"averageGuesses":3}
 {"currentStreak":1,"maxStreak":11,"guesses":{"1":0,"2":2,"3":10,"4":10,"5":1,"6":0,"fail":3},"winPercentage":88,"gamesPlayed":26,"gamesWon":23,"averageGuesses":3}
+{"currentStreak":1,"maxStreak":11,"guesses":{"1":0,"2":2,"3":10,"4":11,"5":1,"6":0,"fail":3},"winPercentage":89,"gamesPlayed":27,"gamesWon":24,"averageGuesses":3}
+{"currentStreak":1,"maxStreak":11,"guesses":{"1":0,"2":2,"3":11,"4":11,"5":1,"6":0,"fail":3},"winPercentage":89,"gamesPlayed":28,"gamesWon":25,"averageGuesses":3}
+{"currentStreak":2,"maxStreak":11,"guesses":{"1":0,"2":3,"3":11,"4":11,"5":1,"6":0,"fail":3},"winPercentage":90,"gamesPlayed":29,"gamesWon":26,"averageGuesses":3}
+{"currentStreak":1,"maxStreak":11,"guesses":{"1":0,"2":3,"3":11,"4":11,"5":1,"6":1,"fail":3},"winPercentage":90,"gamesPlayed":30,"gamesWon":27,"averageGuesses":3}
+{"currentStreak":2,"maxStreak":11,"guesses":{"1":0,"2":3,"3":11,"4":12,"5":1,"6":1,"fail":3},"winPercentage":90,"gamesPlayed":31,"gamesWon":28,"averageGuesses":4}
 
 
-
-
-
-
-
-
+grep -P '(?!.{0,4}c)(?!.{0,4}p)(?!.{0,4}r)(?!.{0,4}a)(?!.{0,4}n)(?!.{0,4}g).{5}"' words.txt 
 
 
 
