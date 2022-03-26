@@ -3,11 +3,21 @@ build_good_letter_regex() {
     echo "(?=.{0,4}$1)"
 }
 
-while getopts g:b: flag
+random_starting_word() {
+    readarray -t words < ./words.txt
+    length_of_array=${#words[@]}
+    random_word_index=$((1 + SRANDOM % ${length_of_array}))
+    # echo ${random_word_index}
+    echo ${words[random_word_index]}
+    exit 0
+}
+
+while getopts g:b:s flag
 do
     case "${flag}" in
         g) good_letters=${OPTARG};;
         b) bad_letters=${OPTARG};;
+        s) random_starting_word
     esac
 done
 
