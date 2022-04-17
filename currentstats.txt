@@ -46,34 +46,26 @@ nyt-wordle-darkmode: true
 {"currentStreak":7,"maxStreak":11,"guesses":{"1":0,"2":3,"3":14,"4":14,"5":1,"6":1,"fail":3},"winPercentage":92,"gamesPlayed":36,"gamesWon":33,"averageGuesses":3}
 {"currentStreak":8,"maxStreak":11,"guesses":{"1":0,"2":3,"3":14,"4":15,"5":1,"6":1,"fail":3},"winPercentage":92,"gamesPlayed":37,"gamesWon":34,"averageGuesses":4}
 {"currentStreak":9,"maxStreak":11,"guesses":{"1":0,"2":3,"3":15,"4":15,"5":1,"6":1,"fail":3},"winPercentage":92,"gamesPlayed":38,"gamesWon":35,"averageGuesses":3}
-
-
-
-
-
-grep -P '(?!.{0,4}c)(?!.{0,4}p)(?!.{0,4}r)(?!.{0,4}a)(?!.{0,4}n)(?!.{0,4}g).{5}"' words.txt 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{"currentStreak":11,"maxStreak":12,"guesses":{"1":0,"2":3,"3":15,"4":16,"5":2,"6":1,"fail":3},"winPercentage":92,"gamesPlayed":40,"gamesWon":37,"averageGuesses":4}
+{"currentStreak":12,"maxStreak":12,"guesses":{"1":0,"2":3,"3":16,"4":16,"5":2,"6":1,"fail":3},"winPercentage":93,"gamesPlayed":41,"gamesWon":38,"averageGuesses":4}
+{"currentStreak":13,"maxStreak":13,"guesses":{"1":0,"2":3,"3":16,"4":17,"5":2,"6":1,"fail":3},"winPercentage":93,"gamesPlayed":42,"gamesWon":39,"averageGuesses":4}
+{"currentStreak":14,"maxStreak":14,"guesses":{"1":0,"2":3,"3":16,"4":18,"5":2,"6":1,"fail":3},"winPercentage":93,"gamesPlayed":43,"gamesWon":40,"averageGuesses":4}
+{"currentStreak":15,"maxStreak":15,"guesses":{"1":0,"2":3,"3":17,"4":18,"5":2,"6":1,"fail":3},"winPercentage":93,"gamesPlayed":44,"gamesWon":41,"averageGuesses":4}
+{"currentStreak":16,"maxStreak":16,"guesses":{"1":0,"2":3,"3":17,"4":19,"5":2,"6":1,"fail":3},"winPercentage":93,"gamesPlayed":45,"gamesWon":42,"averageGuesses":4}
+{"currentStreak":17,"maxStreak":17,"guesses":{"1":0,"2":3,"3":17,"4":20,"5":2,"6":1,"fail":3},"winPercentage":93,"gamesPlayed":46,"gamesWon":43,"averageGuesses":4}
+{"currentStreak":1,"maxStreak":17,"guesses":{"1":0,"2":3,"3":17,"4":20,"5":2,"6":2,"fail":3},"winPercentage":94,"gamesPlayed":47,"gamesWon":44,"averageGuesses":4}
+{"currentStreak":2,"maxStreak":17,"guesses":{"1":0,"2":3,"3":17,"4":21,"5":2,"6":2,"fail":3},"winPercentage":94,"gamesPlayed":48,"gamesWon":45,"averageGuesses":4}
+{"currentStreak":3,"maxStreak":17,"guesses":{"1":0,"2":3,"3":18,"4":21,"5":2,"6":2,"fail":3},"winPercentage":94,"gamesPlayed":49,"gamesWon":46,"averageGuesses":4}
+{"currentStreak":4,"maxStreak":17,"guesses":{"1":0,"2":3,"3":19,"4":21,"5":2,"6":2,"fail":3},"winPercentage":94,"gamesPlayed":50,"gamesWon":47,"averageGuesses":4}
+{"currentStreak":5,"maxStreak":17,"guesses":{"1":0,"2":3,"3":20,"4":21,"5":2,"6":2,"fail":3},"winPercentage":94,"gamesPlayed":51,"gamesWon":48,"averageGuesses":4}
+{"currentStreak":6,"maxStreak":17,"guesses":{"1":0,"2":3,"3":20,"4":22,"5":2,"6":2,"fail":3},"winPercentage":94,"gamesPlayed":52,"gamesWon":49,"averageGuesses":4}
+{"currentStreak":7,"maxStreak":17,"guesses":{"1":0,"2":3,"3":20,"4":23,"5":2,"6":2,"fail":3},"winPercentage":94,"gamesPlayed":53,"gamesWon":50,"averageGuesses":4}
+{"currentStreak":8,"maxStreak":17,"guesses":{"1":0,"2":3,"3":21,"4":23,"5":2,"6":2,"fail":3},"winPercentage":94,"gamesPlayed":54,"gamesWon":51,"averageGuesses":4}
+{"currentStreak":9,"maxStreak":17,"guesses":{"1":0,"2":3,"3":22,"4":23,"5":2,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":55,"gamesWon":52,"averageGuesses":4}
+{"currentStreak":10,"maxStreak":17,"guesses":{"1":0,"2":3,"3":22,"4":23,"5":3,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":56,"gamesWon":53,"averageGuesses":4}
+{"currentStreak":11,"maxStreak":17,"guesses":{"1":0,"2":3,"3":22,"4":23,"5":4,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":57,"gamesWon":54,"averageGuesses":4}
+{"currentStreak":12,"maxStreak":17,"guesses":{"1":0,"2":3,"3":23,"4":23,"5":4,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":58,"gamesWon":55,"averageGuesses":4}
+{"currentStreak":13,"maxStreak":17,"guesses":{"1":0,"2":3,"3":24,"4":23,"5":4,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":59,"gamesWon":56,"averageGuesses":4}
 
 
 
