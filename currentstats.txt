@@ -66,6 +66,33 @@ nyt-wordle-darkmode: true
 {"currentStreak":11,"maxStreak":17,"guesses":{"1":0,"2":3,"3":22,"4":23,"5":4,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":57,"gamesWon":54,"averageGuesses":4}
 {"currentStreak":12,"maxStreak":17,"guesses":{"1":0,"2":3,"3":23,"4":23,"5":4,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":58,"gamesWon":55,"averageGuesses":4}
 {"currentStreak":13,"maxStreak":17,"guesses":{"1":0,"2":3,"3":24,"4":23,"5":4,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":59,"gamesWon":56,"averageGuesses":4}
+{"currentStreak":14,"maxStreak":17,"guesses":{"1":0,"2":3,"3":25,"4":23,"5":4,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":60,"gamesWon":57,"averageGuesses":4}
+{"currentStreak":1,"maxStreak":17,"guesses":{"1":0,"2":3,"3":25,"4":24,"5":4,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":61,"gamesWon":58,"averageGuesses":4}
+{"currentStreak":2,"maxStreak":17,"guesses":{"1":0,"2":3,"3":26,"4":24,"5":4,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":62,"gamesWon":59,"averageGuesses":4}
+{"currentStreak":1,"maxStreak":17,"guesses":{"1":0,"2":3,"3":27,"4":24,"5":4,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":63,"gamesWon":60,"averageGuesses":4}
+{"currentStreak":2,"maxStreak":17,"guesses":{"1":0,"2":3,"3":27,"4":24,"5":5,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":64,"gamesWon":61,"averageGuesses":4}
+{"currentStreak":1,"maxStreak":17,"guesses":{"1":0,"2":3,"3":28,"4":24,"5":5,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":65,"gamesWon":62,"averageGuesses":4}
+{"currentStreak":2,"maxStreak":17,"guesses":{"1":0,"2":3,"3":29,"4":24,"5":5,"6":2,"fail":3},"winPercentage":95,"gamesPlayed":66,"gamesWon":63,"averageGuesses":4}
+{"currentStreak":3,"maxStreak":17,"guesses":{"1":0,"2":3,"3":30,"4":24,"5":5,"6":2,"fail":3},"winPercentage":96,"gamesPlayed":67,"gamesWon":64,"averageGuesses":4}
+{"currentStreak":4,"maxStreak":17,"guesses":{"1":0,"2":3,"3":31,"4":24,"5":5,"6":2,"fail":3},"winPercentage":96,"gamesPlayed":68,"gamesWon":65,"averageGuesses":4}
+{"currentStreak":5,"maxStreak":17,"guesses":{"1":0,"2":3,"3":32,"4":24,"5":5,"6":2,"fail":3},"winPercentage":96,"gamesPlayed":69,"gamesWon":66,"averageGuesses":4}
+{"currentStreak":6,"maxStreak":17,"guesses":{"1":0,"2":3,"3":33,"4":24,"5":5,"6":2,"fail":3},"winPercentage":96,"gamesPlayed":70,"gamesWon":67,"averageGuesses":4}
+{"currentStreak":7,"maxStreak":17,"guesses":{"1":0,"2":3,"3":33,"4":25,"5":5,"6":2,"fail":3},"winPercentage":96,"gamesPlayed":71,"gamesWon":68,"averageGuesses":4}
+{"currentStreak":1,"maxStreak":17,"guesses":{"1":0,"2":3,"3":34,"4":26,"5":5,"6":2,"fail":3},"winPercentage":96,"gamesPlayed":73,"gamesWon":70,"averageGuesses":4}
+{"currentStreak":1,"maxStreak":17,"guesses":{"1":0,"2":3,"3":34,"4":27,"5":5,"6":2,"fail":3},"winPercentage":96,"gamesPlayed":74,"gamesWon":71,"averageGuesses":4}
+{"currentStreak":2,"maxStreak":17,"guesses":{"1":0,"2":3,"3":34,"4":28,"5":5,"6":2,"fail":3},"winPercentage":96,"gamesPlayed":75,"gamesWon":72,"averageGuesses":4}
+{"currentStreak":3,"maxStreak":17,"guesses":{"1":0,"2":4,"3":34,"4":28,"5":5,"6":2,"fail":3},"winPercentage":96,"gamesPlayed":76,"gamesWon":73,"averageGuesses":4}
+
+{"currentStreak":6,"maxStreak":17,"guesses":{"1":0,"2":4,"3":35,"4":28,"5":5,"6":3,"fail":3},"winPercentage":96,"gamesPlayed":79,"gamesWon":76,"averageGuesses":4}
+{"currentStreak":7,"maxStreak":17,"guesses":{"1":0,"2":4,"3":36,"4":28,"5":5,"6":3,"fail":3},"winPercentage":96,"gamesPlayed":80,"gamesWon":77,"averageGuesses":4}
+{"currentStreak":8,"maxStreak":17,"guesses":{"1":0,"2":4,"3":36,"4":29,"5":5,"6":3,"fail":3},"winPercentage":96,"gamesPlayed":81,"gamesWon":78,"averageGuesses":4}
+{"currentStreak":9,"maxStreak":17,"guesses":{"1":0,"2":4,"3":37,"4":29,"5":5,"6":3,"fail":3},"winPercentage":96,"gamesPlayed":82,"gamesWon":79,"averageGuesses":4}
+{"currentStreak":10,"maxStreak":17,"guesses":{"1":0,"2":5,"3":37,"4":29,"5":5,"6":3,"fail":3},"winPercentage":96,"gamesPlayed":83,"gamesWon":80,"averageGuesses":4}
+{"currentStreak":11,"maxStreak":17,"guesses":{"1":0,"2":5,"3":38,"4":29,"5":5,"6":3,"fail":3},"winPercentage":96,"gamesPlayed":84,"gamesWon":81,"averageGuesses":3}
+
+{"currentStreak":12,"maxStreak":17,"guesses":{"1":0,"2":5,"3":39,"4":29,"5":5,"6":3,"fail":3},"winPercentage":96,"gamesPlayed":85,"gamesWon":82,"averageGuesses":3}
+{"currentStreak":1,"maxStreak":17,"guesses":{"1":0,"2":6,"3":39,"4":29,"5":5,"6":3,"fail":3},"winPercentage":97,"gamesPlayed":86,"gamesWon":83,"averageGuesses":3}
+
 
 
 
