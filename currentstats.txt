@@ -92,7 +92,8 @@ nyt-wordle-darkmode: true
 
 {"currentStreak":12,"maxStreak":17,"guesses":{"1":0,"2":5,"3":39,"4":29,"5":5,"6":3,"fail":3},"winPercentage":96,"gamesPlayed":85,"gamesWon":82,"averageGuesses":3}
 {"currentStreak":1,"maxStreak":17,"guesses":{"1":0,"2":6,"3":39,"4":29,"5":5,"6":3,"fail":3},"winPercentage":97,"gamesPlayed":86,"gamesWon":83,"averageGuesses":3}
-
-
-
-
+{"currentStreak":2,"maxStreak":17,"guesses":{"1":0,"2":7,"3":39,"4":29,"5":5,"6":3,"fail":3},"winPercentage":97,"gamesPlayed":87,"gamesWon":84,"averageGuesses":3}
+{"currentStreak":3,"maxStreak":17,"guesses":{"1":0,"2":7,"3":40,"4":29,"5":5,"6":3,"fail":3},"winPercentage":97,"gamesPlayed":88,"gamesWon":85,"averageGuesses":3}
+{"currentStreak":4,"maxStreak":17,"guesses":{"1":0,"2":7,"3":40,"4":30,"5":5,"6":3,"fail":3},"winPercentage":97,"gamesPlayed":89,"gamesWon":86,"averageGuesses":3}
+{"currentStreak":5,"maxStreak":17,"guesses":{"1":0,"2":7,"3":40,"4":31,"5":5,"6":3,"fail":3},"winPercentage":97,"gamesPlayed":90,"gamesWon":87,"averageGuesses":3}
+{"currentStreak":6,"maxStreak":17,"guesses":{"1":0,"2":7,"3":40,"4":31,"5":6,"6":3,"fail":3},"winPercentage":97,"gamesPlayed":91,"gamesWon":88,"averageGuesses":3}

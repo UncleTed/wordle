@@ -9166,7 +9166,7 @@
       );
     })(p(HTMLElement));
     customElements.define("game-toast", ho);
-    var mo = [
+    var the_good_list_of_words = [
         "cigar",
         "rebut",
         "sissy",
@@ -22178,20 +22178,20 @@
     }
 
     var _o = new Date(2021, 5, 19, 0, 0, 0, 0);
-    function xo(e, t) {
+    function xo(e, date_today) {
       var n = new Date(e),
-        a = new Date(t).setHours(0, 0, 0, 0) - n.setHours(0, 0, 0, 0);
+        a = new Date(date_today).setHours(0, 0, 0, 0) - n.setHours(0, 0, 0, 0);
       return Math.round(a / 864e5);
     }
 
-    function So(e) {
+    function So(date_today) {
       var t,
-        n = zo(e);
-      return (t = n % mo.length), mo[t];
+        n = zo(date_today);
+      return (t = n % the_good_list_of_words.length), the_good_list_of_words[t];
     }
 
-    function zo(e) {
-      return xo(_o, e);
+    function zo(date_today) {
+      return xo(_o, date_today);
     }
 
     var jo = "abcdefghijklmnopqrstuvwxyz";
@@ -22510,7 +22510,7 @@
                 var e,
                   t = this.$board.querySelectorAll("game-row")[this.rowIndex],
                   n = this.boardState[this.rowIndex];
-                if (((e = n), !fo.includes(e) && !mo.includes(e)))
+                if (((e = n), !fo.includes(e) && !the_good_list_of_words.includes(e)))
                   return (
                     t.setAttribute("invalid", ""),
                     void this.addToast("Not in word list")
