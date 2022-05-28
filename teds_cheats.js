@@ -21,7 +21,7 @@ function getWordsArray() {
     return words;
 }
 
-var 
+var nyt = `{"boardState":["crane","","","","",""],"evaluations":[["absent","present","correct","absent","absent"],null,null,null,null,null],"rowIndex":1,"solution":"tiara","gameStatus":"IN_PROGRESS","lastPlayedTs":1653676706783,"lastCompletedTs":null,"restoringFromLocalStorage":null,"hardMode":false}`;
 
 function getGoodLetters() {
     var gameState = JSON.parse(localStorage.getItem('nyt-wordle-state'));
