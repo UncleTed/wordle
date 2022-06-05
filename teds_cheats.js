@@ -96,10 +96,10 @@ async function go() {
   console.table(potentialGoodWords);
 }
 
-function attachToEnterButtonClick() {
+(function attachToEnterButtonClick() {
   var myGameApp = document.getElementsByTagName("game-app");
   myGameApp[0].$keyboard["$keyboard"].children[2].children[0].onclick =
     async () => {
       await go();
     };
-}
+})();
