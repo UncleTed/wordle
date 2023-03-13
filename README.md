@@ -20,3 +20,4 @@ CREATE UNIQUE INDEX origin_key_index ON webappsstore2(originAttributes, originKe
  select * from webappsstore2 where originKey like '%moc.semityn.www%';
 select value from webappsstore2 where originKey like '%moc.semityn.www%' and key = 'nyt-wordle-statistics';
 {"currentStreak":9,"maxStreak":11,"guesses":{"1":0,"2":3,"3":15,"4":15,"5":1,"6":1,"fail":3},"winPercentage":92,"gamesPlayed":38,"gamesWon":35,"averageGuesses":3}
+
